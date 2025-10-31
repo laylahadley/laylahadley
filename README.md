@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laylahadley
-- 👀 I’m interested in cybersecurity, swe, and machine learning focusing on Generative AI
-- 🌱 I’m currently studying computer science at Howard University
-- 📫 How to reach me --> 404rosie@gmail,com
+- 👀 I’m interested in finance, business strategy, and data analytics, leveraging my technical background in computer science to develop innovative, data-driven financial solutions.
+- 🌱 I’m currently studying computer science and business administration at Howard University
+- 📫 How to reach me --> layla.r.hadley@gmail.com
 
 <!---
 laylahadley/laylahadley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
